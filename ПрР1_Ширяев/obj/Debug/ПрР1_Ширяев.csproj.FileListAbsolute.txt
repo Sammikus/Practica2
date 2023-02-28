@@ -1,0 +1,7 @@
+C:\Users\mrsam\Desktop\pract2-main\pract1\bin\Debug\ПрР1_Ширяев.exe.config
+C:\Users\mrsam\Desktop\pract2-main\pract1\bin\Debug\ПрР1_Ширяев.exe
+C:\Users\mrsam\Desktop\pract2-main\pract1\bin\Debug\ПрР1_Ширяев.pdb
+C:\Users\mrsam\Desktop\pract2-main\pract1\obj\Debug\ПрР1_Ширяев.csproj.AssemblyReference.cache
+C:\Users\mrsam\Desktop\pract2-main\pract1\obj\Debug\ПрР1_Ширяев.csproj.CoreCompileInputs.cache
+C:\Users\mrsam\Desktop\pract2-main\pract1\obj\Debug\ПрР1_Ширяев.exe
+C:\Users\mrsam\Desktop\pract2-main\pract1\obj\Debug\ПрР1_Ширяев.pdb
